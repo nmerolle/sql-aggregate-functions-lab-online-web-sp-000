@@ -10,7 +10,7 @@ end
 
 def average_student_gpa
   "SELECT MAX(gpa) FROM students"
-end"SELECT MAX(gpa) FROM students
+end
 
 def total_tardies_for_all_students
 end
